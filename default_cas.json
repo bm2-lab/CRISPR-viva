@@ -1,0 +1,32 @@
+{
+   "Cas12a": {
+      "pfs": "TTTV",
+      "loc": "up",
+      "min_len": 18,
+      "max_len": 25
+   },
+   "Cas13d": {
+      "pfs": null,
+      "loc": null,
+      "min_len": 22,
+      "max_len": 30
+   },
+   "LwCas13a": {
+      "pfs": "H",
+      "loc": "down",
+      "min_len": 22,
+      "max_len": 30
+   },
+   "AaCas12b": {
+      "pfs": "TTN",
+      "loc": "up",
+      "min_len": 20,
+      "max_len": 25
+   },
+   "LBUCas13a": {
+      "pfs": null,
+      "loc": null,
+      "min_len": 20,
+      "max_len": 24
+   }
+}
