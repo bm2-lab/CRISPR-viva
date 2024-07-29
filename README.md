@@ -29,8 +29,10 @@ CRISPR-viva consists of two modules, the off-target-free module and the foundati
 Because of the difficulty of installing the abovementioned software and packages, we highly recommand using our docker image.
 
 ## Docker image (Highly recommand!)
+1. Download from [Huggingface repo](https://huggingface.co/michaelm16/CRISPR-viva/resolve/main/docker-image/crispr-viva.tar.gz)
+2. Decompress the tar.gz file to tar file, then use the following command:
 ```bash
-docker pull michaelchuai/crispr-viva:latest
+docker load --input crispr-viva.tar
 ```
 Note:
 1. Using the command above to attain crispr-viva image;
